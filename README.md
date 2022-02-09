@@ -1,9 +1,8 @@
-# UCLA-Intro-Python-Lecture
+# UCLA-DataFest-Python-Data-Wrangling
 
-UCLA Introduction to Python for your Data Science Project 
+Python Data Wrangling Interactive Workshop for UCLA DataFest Lecture Series
 
-Data Fest 2020 Lecture Series
+Use this as an Introduction to Python for your Data Science Project 
 
-Presented @ UCLA 2/12/2020
-
+Presented 2020 / 2021 / 2022
 
